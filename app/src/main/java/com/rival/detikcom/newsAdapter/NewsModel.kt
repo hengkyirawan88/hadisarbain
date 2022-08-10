@@ -281,6 +281,202 @@ object NewsModel {
         ),
 
         news(
+            "Hadis 10 : Halal Berpengaruh pada Doa Kita",
+            "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: إِنَّ اللهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّباً، وَإِنَّ اللهَ أَمَرَ المُؤْمِنِيْنَ بِمَا أَمَرَ بِهِ المُرْسَلِيْنَ فَقَالَ {يَا أَيُّهَا الرُّسُلُ كُلُوْا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا} وَقَالَ تَعَالَى {يَا أَيُّهَا الذِّيْنَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ} ثُمَّ ذَكَرَ الرَّجُلَ يُطِيْلُ السَّفَرَ أَشْعَثَ أَغْبَرَ يَمُدُّ يَدَيْهِ إِلَى السَّمَاءِ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ ومشربه حرام وَمَلْبَسُهُ حَرَامٌ وَغُذِيَ\n" +
+                    "Dari Abu Hurairah radhiyallahu ‘anhu, ia berkata, “Rasulullah shallallahu ‘alaihi wa sallam bersabda, ‘Sesungguhnya Allah Ta’ala itu baik (thayyib), tidak menerima kecuali yang baik (thayyib). Dan sesungguhnya Allah memerintahkan kepada kaum mukminin seperti apa yang diperintahkan kepada para Rasul. Allah Ta’ala berfirman, ‘Wahai para rasul, makanlah dari makanan yang baik-baik, dan kerjakanlah amal shalih.’ (QS. Al-Mu’minun: 51). Dan Allah Ta’ala berfirman, ‘Wahai orang-orang yang beriman! Makanlah dari rezeki yang baik yang Kami berikan kepadamu.’ (QS. Al-Baqarah: 172). Kemudian Rasulullah shallallahu ‘alaihi wa sallam menyebutkan seseorang yang lama bepergian; rambutnya kusut, berdebu, dan menengadahkan kedua tangannya ke langit, lantas berkata, ‘Wahai Rabbku, wahai Rabbku.’ Padahal makanannya haram, minumannya haram, pakaiannya haram, dan ia dikenyangkan dari yang haram, bagaimana mungkin doanya bisa terkabul.” (HR. Muslim) [HR. Muslim, no. 1015]\n" +
+                    "\n"+
+                    "Kandungan hadis :\n" +
+                    "Pertama : Di antara nama Allah adalah thayyib. Maksudnya adalah Allah itu terlepas dari sifat-sifat kekurangan.\n" +
+                    "Kedua : Allah itu sempurna dalam dzat, sifat, perbuatan, dan keputusan-Nya.\n" +
+                    "Ketiga : Allah itu Mahakaya sehingga tidak membutuhkan apa pun dari makhluk-Nya, karenanya Allah hanya menerima yang baik (thayyib) saja.\n" +
+                    "Keempat : Amal perbuatan seseorang bisa diterima atau ditolak.\n" +
+                    "Kelima : Para rasul shallallahu ‘alaihi wa sallam juga diperintah dan dilarang. Kaum mukiminin juga diperintah dan dilarang.\n" +
+                    "Keenam : Boleh menggunakan suatu metode untuk memotivasi yang lain untuk beramal. Seperti dalam hadits ini, diajak orang beriman untuk beramal dengan menyebutkan contoh para rasul.\n" +
+                    "Ketujuh : Wajibnya mensyukuri nikmat Allah dengan beramal shalih.\n" +
+                    "Kedelapan : Khabits (yang buruk) dilarang, dan penilaian khabits berdasarkan penilaian syari’at.\n" +
+                    "Kesembilan : Dari hadits ini, kita didorong untuk berinfak dengan yang halal dan dilarang berinfak dengan yang haram.\n" +
+                    "Kesepuluh : Hendaknya makanan, minuman, dan pakaian berasal dari yang halal, tidak boleh dari yang syubhat.\n" +
+                    "Kesebelas : Setiap yang hendak berdoa hendaklah memperhatikan makanan, minuman, dan pakaiannya daripada yang lainnya.\n" +
+                    "Keduabelas : Yang dimaksud safar yang mustajab doanya adalah safar dengan melakukan perjalanan jauh untuk melakukan suatu ketaatan seperti berhaji, ziarah yang disunnahkan, dan silaturahim. Demikian menurut Imam Nawawi ketika menjelaskan hadits ini.\n" +
+                    "Ketigabelas : Karena makanan, minuman, pakaian, serta pekerjaan yang haram membuat doa sulit terkabul.\n" +
+                    "",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 11 : Tinggalkan yang meragukanmu",
+            "عَنْ أَبِي مُحَمَّدٍ الحَسَنِ بْنِ عَلِيٍّ بْنِ أَبِي طَالِبٍ سِبْطِ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَرَيْحَانَتِهِ رَضِيَ اللهُ عَنْهُمَا قَالَ: حَفِظْتُ مِنْ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ دَعْ مَا يَرِيْبُكَ إِلَى مَا لاَ يَرِيْبُكَ.\n" +
+                    "رَوَاهُ التِّرْمِذِيُّ وَالنَّسَائِيُّ، وَقاَلَ التِّرْمِذِيُّ: حَدِيْثٌ حَسَنٌ صَحِيْحٌ.\n" +
+                    "\n" +
+                    "Dari Abu Muhammad Al-Hasan bin ‘Ali bin Abi Thalib, cucu Rasulullah shallallahu ‘alaihi wa sallam dan kesayangannya radhiyallahu ‘anhuma, ia berkata, “Aku hafal (sebuah hadits) dari Rasulullah shallallahu ‘alaihi wa sallam, ‘Tinggalkanlah yang meragukanmu lalu ambillah yang tidak meragukanmu.’” (HR. Tirmidzi, An-Nasa’i. Tirmidzi mengatakan bahwa hadits ini hasan shahih) [HR. Tirmidzi, no. 2518; An-Nasa’i, no. 5714. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini shahih]\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "- Agama Islam tidak menghendaki umatnya memiliki perasaan ragu dan bimbang.\n" +
+                    "- Jika Anda menginginkan ketenangan dan ketentraman, tinggalkanlah keraguan dan buang jauh-jauh, terutama setelah selesai melaksanakan suatu ibadah sehingga engkau tidak merasa gelisah.\n" +
+                    "- Nabi shallallahu ‘alaihi wa sallam menyampaikan sesuatu dengan singkat, namun begitu luas maknanya. Kata Syaikh Muhammad bin Shalih Al-‘Utsaimin rahimahullah, “Seandainya seseorang membuat penafsiran atau penjelasan mengenai hadits ini dalam satu jilid buku yang sangat tebal, niscaya kandungan dua kalimat ini akan melebihinya.”\n" +
+                    "- Syari’at Islam itu membawa kemudahan.\n" +
+                    "- Hadits ini mengandung pelajaran agar kita diam terhadap perkara syubhat dan meninggalkannya. Kalau sesuatu yang halal tentu akan mendatangkan ketenangan, sedangkan sesuatu yang syubhat mendatangkan keragu-raguan. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:280.\n" +
+                    "- Bentuk wara’ adalah meninggalkan sesuatu yang ragu-ragu lalu mengambil yang tidak meragukan. Hal ini dikatakan oleh Abu ‘Abdirrahman Al-‘Umari, seorang yang terkenal zuhud. Hal ini dikatakan pula oleh Al-Fudhail, Hasan bin Abi Sinan. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:280.\n" +
+                    "- Dari sekelompok sahabat seperti Umar, Ibnu ‘Umar, Abu Ad-Darda’, dan Ibnu Mas’ud mengatakan, “Apa yang engkau inginkan dari hal yang masih meragukan padahal di sekelilingmu ada 4.000 hal yang tidak meragukan.” (Jami’ Al-‘Ulum wa Al-Hikam, 1:280)\n" +
+                    "- Sebagian ulama berdalil dengan hadits ini bahwa keluar dari perselisihan ulama itu lebih afdal. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:282.\n" +
+                    "- Meninggal dusta dan terus menjaga kejujuran akan membawa ketenangan, sedangkan dusta selalu membawa pada keragu-raguan. Lihat Syarh Al-Arba’in An-Nawawiyah Al-Mukhtashar, hlm. 97.\n" +
+                    "",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 12 : Meninggalkan yang tidak bermanfaat",
+            "مِنْ حُسْنِ إِسْلَامِ المَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ \n" +
+                    "\n" +
+                    "Di antara yang termasuk bagusnya keislaman seseorang adalah ia meninggalkan apa yang tak berguna (bermanfaat) baginya.\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "- Agama Islam tidak menghendaki umatnya memiliki perasaan ragu dan bimbang.\n" +
+                    "- Jika Anda menginginkan ketenangan dan ketentraman, tinggalkanlah keraguan dan buang jauh-jauh, terutama setelah selesai melaksanakan suatu ibadah sehingga engkau tidak merasa gelisah.\n" +
+                    "- Nabi shallallahu ‘alaihi wa sallam menyampaikan sesuatu dengan singkat, namun begitu luas maknanya. Kata Syaikh Muhammad bin Shalih Al-‘Utsaimin rahimahullah, “Seandainya seseorang membuat penafsiran atau penjelasan mengenai hadits ini dalam satu jilid buku yang sangat tebal, niscaya kandungan dua kalimat ini akan melebihinya.”\n" +
+                    "- Syari’at Islam itu membawa kemudahan.\n" +
+                    "- Hadits ini mengandung pelajaran agar kita diam terhadap perkara syubhat dan meninggalkannya. Kalau sesuatu yang halal tentu akan mendatangkan ketenangan, sedangkan sesuatu yang syubhat mendatangkan keragu-raguan. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:280.\n" +
+                    "- Bentuk wara’ adalah meninggalkan sesuatu yang ragu-ragu lalu mengambil yang tidak meragukan. Hal ini dikatakan oleh Abu ‘Abdirrahman Al-‘Umari, seorang yang terkenal zuhud. Hal ini dikatakan pula oleh Al-Fudhail, Hasan bin Abi Sinan. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:280.\n" +
+                    "- Dari sekelompok sahabat seperti Umar, Ibnu ‘Umar, Abu Ad-Darda’, dan Ibnu Mas’ud mengatakan, “Apa yang engkau inginkan dari hal yang masih meragukan padahal di sekelilingmu ada 4.000 hal yang tidak meragukan.” (Jami’ Al-‘Ulum wa Al-Hikam, 1:280)\n" +
+                    "- Sebagian ulama berdalil dengan hadits ini bahwa keluar dari perselisihan ulama itu lebih afdal. Lihat Jami’ Al-‘Ulum wa Al-Hikam, 1:282.\n" +
+                    "\n" +
+                    "",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 13 : Mencintainya Seperti Mencintai Diri Sendiri",
+            "عَنْ أَبِي حَمْزَةَ أَنَسٍ بْنِ مَالِكٍ رَضِيَ اللهُ عَنْهُ – خَادِمِ رَسُوْلِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ – عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: ” لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيْهِ مَا يُحِبُّ لِنَفْسِهِ ” رَوَاهُ البُخَارِيُّ وَمُسْلِمٌ\n" +
+                    "Dari Abu Hamzah Anas bin Malik radhiyallahu ‘anhu, pembantu Rasulullah shallallahu ‘alaihi wa sallam, dari Nabi shallallahu ‘alaihi wa sallam bersabda, “Salah seorang di antara kalian tidaklah beriman (dengan iman sempurna) sampai ia mencintai saudaranya sebagaimana ia mencintai dirinya sendiri.” (HR. Bukhari dan Muslim)\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "Pertama: Yang dimaksud dalam hadits adalah tidak sempurnanya iman.\n" +
+                    "Kedua: Wajib mencintai saudara kita sebagaimana mencintai saudara sendiri. Di sini dikatakan wajib karena ada kalimat penafian umum.\n" +
+                    "Ketiga: Wajib meninggalkan hasad karena orang yang hasad pada saudaranya berarti tidak mencintai saudaranya seperti yang ia cintai pada dirinya sendiri. Bahkan orang yang hasad itu berangan-angan nikmat orang lain itu hilang.\n" +
+                    "Sedangkan pengertian hasad menurut Syaikhul Islam Ibnu Taimiyah yaitu,\n" +
+                    "الْحَسَدَ هُوَ الْبُغْضُ وَالْكَرَاهَةُ لِمَا يَرَاهُ مِنْ حُسْنِ حَالِ الْمَحْسُودِ\n" +
+                    "“Hasad adalah membenci dan tidak suka terhadap keadaan baik yang ada pada orang yang dihasad.” (Majmu’ah Al-Fatawa, 10:111).\n" +
+                    "\n" +
+                    "",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 14 : Tidak Halal Darah Seorang Muslim",
+            "عَنِ ابْنِ مَسْعُوْدٍ رَضِيَ اللهُ عَنْهُ قَالَ: قَالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لاَ يَحِلُّ دَمُّ امْرِئٍ مُسْلِمٍ إِلاَّ بِإِحْدَى ثَلاَثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِيْنِهِ المُفَارِقُ لِلْجَمَاعَةِ\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "Pertama: Terhormatnya darah seorang muslim.\n" +
+                    "Kedua: Halalnya darah seorang muslim karena tiga sebab sebagaimana disebutkan dalam hadits ini:\n" +
+                    "Yang sudah menikah lantas berzina dihukumi rajam sampai mati.\n" +
+                    "Jika seorang muslim membunuh muslim lainnya dan telah terpenuhi syarat qishash.\n" +
+                    "Murtad keluar dari Islam.\n" +
+                    "Ketiga: Para ulama berselisih pendapat mengenai hukuman bagi pezina yang sudah menikah apakah dihukum dengan cambuk terlebih dahulu lalu rajam ataukah rajam saja. Kebanyakan ulama memilih hanya dikenakan hukuman rajam saja.\n" +
+                    "Keempat: Ats-tsayyib az-zaani dikenakan hukuman rajam jika terbukti dengan empat orang saksi atau ia mengakuinya sendiri.\n" +
+                    "Kelima: Meninggalkan jamaah yang dimaksud dalam hadits adalah (1) meninggalkan agama yang benar, (2) memberontak pada pemerintahan yang sah.\n" +
+                    "Keenam: Yang boleh menjalankan eksekusi mati ini adalah imam kaum muslimin, tidak bisa dijalankan serampangan oleh lainnya.\n" +
+                    "",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 15 : Berkata yang Baik, Memuliakan Tamu dan Tetangga",
+            "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ تَعَالَى عَنْهُ أَنَّ رَسُوْلَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنْ كَانَ يُؤْمِنُ بِاللهِ وَاليَوْمِ الآخِرِ فَلْيَقُلْ خَيْراً أَوْ لِيَصْمُتْ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَاليَوْمِ الآخِرِ فَلْيُكْرِمْ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَاليَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ.\n" +
+                    "Dari Abu Hurairah radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Siapa saja yang beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam. Siapa saja yang beriman kepada Allah dan hari akhir, hendaklah ia memuliakan tetangganya. Siapa saja yang beriman kepada Allah dan hari akhir, hendaklah ia memuliakan tamunya.”\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "Pertama: Hadits ini menunjukkan adab yang sangat mulia sama dengan hadits keduabelas sebelumnya, “Di antara kebaikan islam seseorang adalah meninggalkan hal yang tidak bermanfaat.” Hadits keduabelas dari Arbain An-Nawawiyyah mengajarkan adab yang sifatnya umum. Sedangkan hadits mengajarkan tiga adab khusus yaitu berkata baik, memuliakan tetangga, dan memuliakan tamu.\n" +
+                    "Kedua: Hadits ini menunjukkan bahwa kewajiban itu ada dua macam: (1) kewajiban kepada Allah dan (2) kewajiban kepada sesama. Kewajiban yang terkait dengan hak Allah adalah menjaga lisan. Artinya kalau kita beriman dengan benar kepada Allah dan hari akhir, maka disuruh untuk menjaga lisan. Bentuknya adalah (1) berkata yang baik, atau jika tidak bisa (2) diperintahkan untuk diam.\n" +
+                    "Dalam ayat disebutkan,\n" +
+                    "لَا خَيْرَ فِي كَثِيرٍ مِنْ نَجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ\n" +
+                    "“Tidak ada kebaikan pada kebanyakan bisikan-bisikan mereka, kecuali bisikan-bisikan dari orang yang menyuruh (manusia) memberi sedekah, atau berbuat ma’ruf, atau mengadakan perdamaian di antara manusia.” (QS. An-Nisaa’: 114)\n" +
+                    "Dari Sahl bin Sa’ad radhiyallahu ‘anhu, Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n" +
+                    "مَنْ يَضْمَنْ لِى مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ أَضْمَنْ لَهُ الْجَنَّةَ\n" +
+                    "“Siapa yang menjamin (menjaga) di antara dua janggutnya (lisannya) dan di antara dua kakinya (kemaluannya), maka aku akan jaminkan baginya surga.” (HR. Bukhari, no. 6474).\n" +
+                    "Artinya diperintahkan untuk menjaga lisan, tidak berkata jelek yang nanti dicatat oleh malaikat pencatat amal jelek. Juga tidak menggunakan kemaluan untuk sesuatu yang diharamkan. Hadits ini menunjukkan bahwa berbagai maksiat itu terjadi karena lisan dan kemaluan. Siapa yang selamat dari kejelekan keduanya, maka ia akan selamat dari kejelekan yang besar. Demikian dijelaskan oleh Ibnu Batthol dalam Syarh Al-Bukhari.\n" +
+                    "Ketiga: Ikram dalam hadits yang dimaksudkan adalah memuliakan dengan sebaik-baiknya, yaitu memuliakan dengan sempurna pada tetangga dan tamu.\n" +
+                    "Keempat: Memuliakan tetangga bisa melakukan sebagaimana saran dari Imam Al-Ghazali berikut ini.\n" +
+                    "Memulai mengucapkan salam pada tetangga.\n" +
+                    "Menjenguk tetangga yang sakit.\n" +
+                    "Melayat (ta’ziyah) ketika tetangga mendapatkan musibah.\n" +
+                    "Mengucapkan selamat pada tetangga jika mereka mendapati kebahagiaan.\n" +
+                    "Berserikat dengan mereka dalam kebahagiaan dan saat mendapatkan nikmat.\n" +
+                    "Meminta maaf jika berbuat salah.\n" +
+                    "Berusaha menundukkan pandangan untuk tidak memandangi istri tetangga yang bukan mahram.\n" +
+                    "Menjaga rumah tetangga jika ia pergi.\n" +
+                    "Berusaha bersikap baik dan lemah lembut pada anak tetangga.\n" +
+                    "Berusaha mengajarkan perkara agama atau dunia yang tetangga tidak ketahui.\n",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 16 : Jangan Marah!",
+            "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوْصِنِي قَالَ لَا تَغْضَبْ فَرَدَّدَ مِرَارًا قَالَ لَا تَغْضَبْ\n" +
+                    "Dari Abu Hurairah radhiyallahu ‘anhu berkata, seorang lelaki berkata kepada Nabi shallallahu ‘alaihi wa sallam, “Berilah aku wasiat.” Beliau menjawab, “Janganlah engkau marah.” Lelaki itu mengulang-ulang permintaannya, (namun) Nabi shallallahu ‘alaihi wa sallam (selalu) menjawab, “Janganlah engkau marah.” (HR. Bukhari) [HR. Bukhari, no. 6116]\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "Semangatnya para sahabat, mereka mencari ilmu untuk diamalkan.\n" +
+                    "Nasihat bisa disesuaikan dengan kondisi orang yang dinasihati.\n" +
+                    "Larangan marah sampai diwasiatkan Nabi shallallahu ‘alaihi wa sallam dikarenakan marah itu punya mafsadat yang besar. Ada yang sampai marah hingga mentalak istrinya. Ada yang sampai marah hingga berjanji tidak mau lagi berbicara, lalu akhirnya ia menyesalinya.\n" +
+                    "Islam melarang dari akhlak yang jelek.\n" +
+                    "Islam juga melarang hal-hal yang dapat menimbulkan marah dan berbagai dampak jeleknya.\n" +
+                    "Nabi shallallahu ‘alaihi wa sallam mengulangi wasiat “jangan marah” menunjukkan pentingnya wasiat ini.\n",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 17 : Berbuat Ihsan pada Segala Sesuatu\n",
+            "إِنَّ اللَّهَ كَتَبَ الإِحْسَانَ عَلَى كُلِّ شَىْءٍ فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا الْقِتْلَةَ وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذَّبْحَةَ وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ وَلْيُرِحْ ذَبِيحَتَهُ\n" +
+                    "“Sesungguhnya Allah memerintahkan berbuat baik terhadap segala sesuatu. Jika kalian hendak membunuh, maka bunuhlah dengan cara yang baik. Jika kalian hendak menyembelih, maka sembelihlah dengan cara yang baik. Hendaklah kalian menajamkan pisaunya dan senangkanlah hewan yang akan disembelih.”  (HR. Muslim) [HR. Muslim, no. 1955, Bab “Perintah untuk berbuat baik ketika menyembelih dan membunuh dan perintah untuk menajamkan pisau”]\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "1- Hadits ini menjelaskan bahwa Allah sangat menyayangi hamba-Nya yaitu Allah menetapkan berbuat baik pada sesama. Contoh dalam hal ini adalah memberi petunjuk jalan pada orang yang tersesat, juga memberi makan pada orang yang butuh makan.\n" +
+                    "2- Hadits ini menunjukkan dorongan untuk berbuat ihsan pada segala sesuatu.\n" +
+                    "3- Dalam membunuh atau menyembelih diperintahkan dengan cara yang baik, yaitu dengan mengikuti tuntunan syari’at.\n" +
+                    "4- Dalam hadits ini digunakan kata kataba atau kitabah yaitu menetapkan. Sedangkan kitabah itu dijelaskan oleh para ulama ada dua macam yaitu kitabah qadariyyah dan kitabah syar’iyyah. Kitabah qadariyyah adalah ketetapan yang pasti terjadi. Sedangkan kitabah syar’iyyah adalah ketetapan yang kadang manusia kerjakan dan kadang tidak dikerjakan.\n" +
+                    "Contoh kitabah qadariyyah seperti dalam ayat,\n" +
+                    "وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ\n" +
+                    "“Dan sungguh telah Kami tulis di dalam Zabur sesudah (Kami tulis dalam) Lauh Mahfuzh, bahwasanya bumi ini dipusakai hamba-hambaKu yang saleh.” (QS. Al-Anbiya’: 105)\n" +
+                    "Contoh kitabah syar’iyyah seperti dalam ayat,\n" +
+                    "يَا أَيُّهَا الَّذِينَ آَمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ\n" +
+                    "“Hai orang-orang yang beriman, diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa.” (QS. Al-Baqarah: 183)\n" +
+                    "5- Wajib berbuat ihsan pada segala sesuatu dan bentuknya bermacam-macam, bisa pada amalan seperti:\n" +
+                    "Dalam hal yang wajib yaitu menjalankan kewajiban secara sempurna sebagaimana yang dituntut. Sedangkan berbuat ihsan dalam hal menyempurnakan yang sunnah tidaklah wajib.\n" +
+                    "Meninggalkan yang haram.\n" +
+                    "Sabar terhadap takdir yang tidak menyenangkan, tanpa menggerutu atau mengeluh pada takdir.\n" +
+                    "Berbuat baik dalam muamalah dengan manusia lainnya.\n" +
+                    "Berbuat baik ketika membunuh sesuatu yang dibolehkan untuk dibunuh.\n" +
+                    "6- Nabi shallallahu ‘alaihi wa sallam biasa memberikan contoh dalam menjelaskan sesuatu. Dalam hadits ini disebutkan contoh ihsan yaitu dalam hal menyembelih.\n" +
+                    "7- Bagaimana cara berbuat baik ketika menyembelih? Caranya adalah dengan mengikuti tuntunan syari’at Islam saat menyembelih.\n",
+            R.drawable.img_news8
+        ),
+
+        news(
+            "Hadis 18 : Takwa, Mengikutkan Kejelekan dengan Kebaikan, dan Berakhlak Mulia\n",
+            "عَنْ أَبِيْ ذَرٍّ جُنْدُبِ بنِ جُنَادَةَ وَأَبِي عَبْدِ الرَّحْمَنِ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللهُ عَنْهُمَا عَنْ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: (اتَّقِ اللهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ) رَوَاهُ التِّرْمِذِي وَقَالَ: حَدِيْثٌ حَسَنٌ. وَفِي بَعْضِ النُّسَخِ: حَسَنٌ صَحِيْحٌ.\n" +
+                    "Dari Abu Dzarr Jundub bin Junadah dan Abu ‘Abdirrahman Mu’adz bin Jabal radhiyallahu ‘anhuma, dari Rasulullah shallallahu ‘alaihi wa sallam, beliau bersabda, “Bertakwalah kepada Allah di mana pun engkau berada; iringilah perbuatan buruk dengan perbuatan baik, maka kebaikan akan menghapuskan keburukan itu; dan pergaulilah manusia dengan akhlak yang baik.” (HR. Tirmidzi, ia mengatakan haditsnya itu hasan dalam sebagian naskah disebutkan bahwa hadits ini hasan shahih) [HR. Tirmidzi, no. 1987 dan Ahmad, 5:153. Al-Hafizh Abu Thahir mengatakan bahwa hadits ini hasan]\n" +
+                    "\n" +
+                    "Kandungan hadis :\n" +
+                    "Pertama: Wajib bertakwa kepada Allah di mana saja kita berada dengan menjalankan perintah dan menjauhi larangan, baik ketika saat di keramaian dan ketika saat di kesepian.\n" +
+                    "Bahkan ada peringatan bagi yang tidak takut kepada Allah hingga berbuat maksiat di kesepian. Dalam hadits dalam salah satu kitab sunan disebutkan,\n" +
+                    "عَنْ ثَوْبَانَ عَنِ النَّبِىِّ -صلى الله عليه وسلم- أَنَّهُ قَالَ : « لأَعْلَمَنَّ أَقْوَامًا مِنْ أُمَّتِى يَأْتُونَ يَوْمَ الْقِيَامَةِ بِحَسَنَاتٍ أَمْثَالِ جِبَالِ تِهَامَةَ بِيضًا فَيَجْعَلُهَا اللَّهُ عَزَّ وَجَلَّ هَبَاءً مَنْثُورًا ». قَالَ ثَوْبَانُ : يَا رَسُولَ اللَّهِ صِفْهُمْ لَنَا جَلِّهِمْ لَنَا أَنْ لاَ نَكُونَ مِنْهُمْ وَنَحْنُ لاَ نَعْلَمُ. قَالَ : « أَمَا إِنَّهُمْ إِخْوَانُكُمْ وَمِنْ جِلْدَتِكُمْ وَيَأْخُذُونَ مِنَ اللَّيْلِ كَمَا تَأْخُذُونَ وَلَكِنَّهُمْ أَقْوَامٌ إِذَا خَلَوْا بِمَحَارِمِ اللَّهِ انْتَهَكُوهَا»\n" +
+                    "Dari Tsauban, dari Nabi shallallahu ‘alaihi wa sallam, ia berkata, “Sungguh aku mengetahui suatu kaum dari umatku datang pada hari kiamat dengan banyak kebaikan semisal Gunung Tihamah. Namun Allah menjadikan kebaikan tersebut menjadi debu yang bertebaran.” Tsauban berkata, “Wahai Rasulullah, coba sebutkan sifat-sifat mereka pada kami supaya kami tidak menjadi seperti mereka sedangkan kami tidak mengetahuinya.”\n" +
+                    "Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Adapun mereka adalah saudara kalian. Kulit mereka sama dengan kulit kalian. Mereka menghidupkan malam (dengan ibadah) seperti kalian. Akan tetapi mereka adalah kaum yang jika bersepian mereka merobek tirai untuk bisa bermaksiat pada Allah.” (HR. Ibnu Majah, no. 4245. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini hasan). Ibnu Majah membawakan hadits di atas dalam Bab “Mengingat Dosa”.\n" +
+                    "Hadits di atas semakna dengan ayat,\n" +
+                    "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَى مِنَ الْقَوْلِ وَكَانَ اللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا\n" +
+                    "“Mereka bersembunyi dari manusia, tetapi mereka tidak bersembunyi dari Allah, padahal Allah beserta mereka, ketika pada suatu malam mereka menetapkan keputusan rahasia yang Allah tidak ridhai. Dan adalah Allah Maha Meliputi (ilmu-Nya) terhadap apa yang mereka kerjakan.” (QS. An-Nisa’: 108). Walaupun dalam ayat tidak disebutkan tentang hancurnya amalan.\n" +
+                    " \n" +
+                    "Kedua: Amalan kebaikan akan menghapus kejelekan. Bisa jadi yang dimaksud dengan kebaikan adalah taubat, bisa pula yang dimaksud adalah amal shalih lainnya.\n" +
+                    " \n" +
+                    "Ketiga: Kita diperintahkan untuk berakhlak mulia terhadap sesama. Namun hal ini tidak menafikan pada suatu keadaan kita bersikap keras dan tegas.\n" +
+                    "Contoh dari Nabi shallallahu ‘alaihi wa sallam seperti terlihat dalam riwayat dari Anas bin Malik radhiyallahu ‘anhu, ia berkata, “Ada seorang Yahudi melewati Rasulullah shallallahu ‘alaihi wa sallam, lalu ia mengucapkan ‘as-saamu ‘alaik’ (celaka engkau).” Rasulullah shallallahu ‘alaihi wa sallam lantas membalas ‘wa ‘alaik’ (engkau yang celaka). Rasulullah shallallahu ‘alaihi wa sallam lantas bersabda, “Apakah kalian mengetahui bahwa Yahudi tadi mengucapkan ‘assaamu ‘alaik’ (celaka engkau)?” Para sahabat lantas berkata, “Wahai Rasulullah, bagaimana jika kami membunuhnya saja?” Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Jangan. Jika mereka mengucapkan salam pada kalian, maka ucapkanlah ‘wa ‘alaikum’.” (HR. Bukhari, no. 6926)\n" +
+                    "Namun kalau ada dua keadaan yaitu perintah bersikap lemah lembut ataukah keras, kita tetap memilih lemah lembut. Nabi shallallahu ‘alaihi wa sallam pernah mengatakan kepada Aisyah,\n" +
+                    "يَا عَائِشَةُ إِنَّ اللَّهَ رَفِيقٌ يُحِبُّ الرِّفْقَ وَيُعْطِى عَلَى الرِّفْقِ مَا لاَ يُعْطِى عَلَى الْعُنْفِ وَمَا لاَ يُعْطِى عَلَى مَا سِوَاهُ\n" +
+                    "“Wahai Aisyah, sesungguhnya Allah itu lemah lembut dan menyukai kelemah lembutan. Allah memberi kepada kelembutan suatu kebaikan yang tidak diberi pada sikap keras dan tidak diberi pada lainnya.” (HR. Bukhari, no. 6024 dan Muslim, no. 2593. Lafazhnya adalah lafazh Muslim)\n",
+            R.drawable.img_news8
+        ),
+
+        news(
             "Hadis 1 : Amalan Bergantung pada Niat",
             "عَنْ أَمِيرِ المُؤمِنينَ أَبي حَفْصٍ عُمَرَ بْنِ الخَطَّابِ رَضيَ اللهُ عنْهُ قَالَ: سَمِعْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُوْلُ: (( إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَِى اللهِ وَرَسُوْلِهِ فَهِجْرَتُهُ إِلَى اللهِ وَرَسُوْلِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيْبُهَا، أَوْ امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ )). رَوَاهُ إِمَامَا الْمُحَدِّثِيْنَ أَبُوْ عَبْدِ اللهِ مُحَمَّدُ بْنُ إِسْمَاعِيْلَ بْنِ إِبْرَاهِيْمَ بْنِ الْمُغِيْرَةِ بْنِ بَرْدِزْبَهْ الْبُخَارِيُّ، وَأَبُوْ الْحُسَيْنِ مُسْلِمُ بْنُ الْحَجَّاجِ بْنِ مُسْلِمٍ الْقُشَيْرِيّ النَّيْسَابُوْرِيّ، فِيْ صَحِيْحَيْهِمَا اللَّذَيْنِ هُمَا أَصَحُّ الْكُتُبِ اْلمُصَنَّفَةِ.\n" +
                     "\n" +
