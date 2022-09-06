@@ -83,7 +83,7 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_marginStart="7dp"
             android:layout_marginEnd="7dp"
             android:text="@string/menu_mostpopular"
@@ -122,7 +122,7 @@
                     android:layout_height="wrap_content"
                     android:contentDescription="@string/var_contdesc"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/img_news1"/>
+                    android:src="@drawable/img_news41"/>
 
                 <LinearLayout
                     android:layout_width="match_parent"
